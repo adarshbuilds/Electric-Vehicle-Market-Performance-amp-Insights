@@ -1,0 +1,41 @@
+id,manufacturer,model,year,category,battery_tech,battery_kwh,range_km
+EV001,Voltara,Arc S,2021,SUV,Sodium-ion,70,315
+EV002,Voltara,Arc Plus,2022,Van,LFP,97,441
+EV003,Voltara,Strata S,2020,Hatchback,LFP,57,362
+EV004,Voltara,Arc S,2023,Van,Sodium-ion,70,245
+EV005,Voltara,Strata GT,2023,Sedan,LFP,69,436
+EV006,Zephyr EV,Cirrus S,2023,Sedan,LFP,72,438
+EV007,Zephyr EV,Breeze GT,2022,Hatchback,NMC,55,369
+EV008,Zephyr EV,Gale SE,2019,Van,Sodium-ion,70,260
+EV009,Zephyr EV,Cirrus Plus,2021,Van,LFP,96,503
+EV010,Zephyr EV,Gale GT,2020,Van,Sodium-ion,70,272
+EV011,Northwind,Aurora GT,2021,Pickup,NMC,94,422
+EV012,Northwind,Fjord S,2021,SUV,NMC,107,621
+EV013,Northwind,Aurora GT,2024,Pickup,NMC,94,361
+EV014,Northwind,Tundra GT,2019,Van,Sodium-ion,70,259
+EV015,Northwind,Fjord SE,2021,Pickup,NMC,129,502
+EV016,Solari,Helio S,2020,Sedan,NMC,85,520
+EV017,Solari,Helio GT,2024,Pickup,NMC,107,492
+EV018,Solari,Sol S,2020,Pickup,Sodium-ion,70,261
+EV019,Solari,Dawn SE,2021,Sedan,LFP,74,414
+EV020,Solari,Dawn GT,2020,SUV,LFP,96,528
+EV021,Kinetiq,K3 Plus,2022,Van,Sodium-ion,68,261
+EV022,Kinetiq,K1 SE,2019,Pickup,NMC,120,524
+EV023,Kinetiq,K1 S,2019,Sedan,NMC,67,405
+EV024,Kinetiq,K3 S,2019,Van,LFP,71,378
+EV025,Kinetiq,K2 GT,2022,Sedan,NMC,69,445
+EV026,Ampera Works,Pulse Plus,2022,Hatchback,LFP,55,394
+EV027,Ampera Works,Volt GT,2022,SUV,LFP,76,437
+EV028,Ampera Works,Volt GT,2020,Sedan,NMC,73,502
+EV029,Ampera Works,Volt S,2024,Van,NCA,98,454
+EV030,Ampera Works,Spark GT,2024,SUV,NMC,80,423
+EV031,Terrano Electric,Mesa SE,2020,Sedan,NMC,72,481
+EV032,Terrano Electric,Mesa Plus,2021,Van,NMC,66,354
+EV033,Terrano Electric,Canyon GT,2021,Sedan,NMC,82,508
+EV034,Terrano Electric,Mesa SE,2022,Hatchback,LFP,47,302
+EV035,Terrano Electric,Canyon GT,2024,Van,Sodium-ion,65,251
+EV036,Lumen Auto,Prism SE,2022,Hatchback,NCA,43,303
+EV037,Lumen Auto,Prism Plus,2022,Sedan,NMC,81,462
+EV038,Lumen Auto,Beam SE,2019,Pickup,NMC,95,423
+EV039,Lumen Auto,Beam Plus,2024,Sedan,NMC,89,595
+EV040,Lumen Auto,Beam S,2023,SUV,LFP,105,527
